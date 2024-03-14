@@ -10,9 +10,7 @@ SciSciNet: A vast database of scientific publications across all disciplines.
 Both datasets can be freely downloaded online and are instrumental in our study for extracting the necessary data to conduct the analyses presented in our paper.
 
 Repository Structure
-This repository is organized as follows:
-README.md: Provides an overview of the repository and instructions on how to navigate the codes and datasets.
-analysis/: Contains the key custom codes used for the main analyses in our study.
+This repository contains the key custom codes used for the main analyses in our study.
 Each code file includes comments specifying the data required for running the analysis. This ensures that users can easily understand the data dependencies and extract the necessary information from the APS and SciSciNet datasets.
 
 Custom Codes
